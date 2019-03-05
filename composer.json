@@ -1,0 +1,14 @@
+{
+    "name": "zolhorvath/tab",
+    "description": "A test module that provides test routes for visual testing tabs",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Zoltan Horvath",
+            "email": "z.a.horvath@gmail.com",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {}
+}
